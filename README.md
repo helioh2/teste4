@@ -1,0 +1,1 @@
+Testando criação de repositório do Git.
